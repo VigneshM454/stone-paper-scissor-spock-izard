@@ -5,7 +5,7 @@
     font-family: 'Barlow Semi Condensed';
 }
 body{
-    background-color: darkblue;
+    background-color: dodgerblue;
 }
 .contain{
     width: 80vw;
@@ -214,6 +214,7 @@ border: 2rem solid;
 #h1{
 color: white;
 font-size: 40px;
+text-align:center;
 }
 #play{
 background-color: white;
@@ -224,8 +225,8 @@ font-size: 25px;
 @media (min-width: 400px) and (max-width: 750px) {
     .pick1, .pick2 {
       border: 1rem solid;
-      width: 8rem;
-      height: 5rem;
+      width: 7rem;
+      height: 7rem;
       background-size: 2.5rem 2.5rem;
     }
     .modal{
@@ -378,25 +379,3 @@ font-size: 25px;
         padding-left: 20px;
       }
 }
-/*
-body{
-    color: hsl(39, 89%, 49%);
-    color: hwb(40 13% 7%);
-    color: hsl(230, 89%, 62%);
-    color: hsl(230, 89%, 65%);
-    color: hsl(349, 71%, 52%);
-    color: hsl(349, 70%, 56%);
-    color: hsl(261, 73%, 60%);
-    color: hsl(261, 72%, 63%);
-    color: hsl(189, 59%, 53%);
-    color: hsl(189, 58%, 57%);
-
-    color: hsl(229, 25%, 31%);
-    color: hsl(229, 64%, 46%);
-    color:hsl(217, 16%, 45%);
-    color: rgba(117, 138, 165, 0.59);
-    color:rgb(31, 55, 86) ;
-    color: hsl(237, 49%, 15%);
-    
-}
-*/
